@@ -1,5 +1,5 @@
 # Hello World, I am Pascal! 👋
-aHR0cHM6Ly93d3cubGlua2VkaW4uY29tL2luL25zbWl0aDkwLw==
+
 ## `./whoami`
 * ➕🎮🎵 Gamer, programmer, musician
 * 💻 Student of the cyber-security field
