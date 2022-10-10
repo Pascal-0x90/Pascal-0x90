@@ -8,12 +8,7 @@ aHR0cHM6Ly93d3cubGlua2VkaW4uY29tL2luL25zbWl0aDkwLw==
 * 🖇️ Offensive Security Certified Professional (OSCP) holder
 
 ## `./current_projects`
-* Committing to other repos
-* Constantly helping friends with projects
-* Building out more content such as blog, CTF writeups, and wargame walkthroughs
-* Experimenting with my own Command and Control framework in go
-
-Note: *I do hope to get these projects up and going throughout the year. Been kind of a rough start but the dirt is ripe for the kicking.*
+* Trying to catch up on my project stash ;-;
 
 ## `./contact`
 * 🐦 Twitter: @pascal_0x90
