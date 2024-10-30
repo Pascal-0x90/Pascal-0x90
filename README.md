@@ -7,9 +7,6 @@
 * ⚙️ Computer Systems Engineer
 * 🖇️ Offensive Security Certified Professional (OSCP) holder
 
-## `./current_projects`
-* Trying to catch up on my project stash ;-;
-
 ## `./contact`
 * 🐦 Twitter: @pascal_0x90
 * 🎧 Discord: Pascal-0x90#1337 (this may change if I decide to abandon nitro)
